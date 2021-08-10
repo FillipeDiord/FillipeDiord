@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FillipeDiord
 - 👀 I’m interested in ReactJs, ReactNative, NodeJs
 - 🌱 I’m currently learning ReactJs, ReactNative, NodeJs, Aws
-- 💞️ I’m looking to collaborate on projects in use Technologies ReactJs, ReactNative, NodeJs, Aws
+- 💞️ I’m looking to collaborate on projects in use Technologies ReactJs, ReactNative, NodeJs, AWS
 - 📫 How to reach me email : fillipediord@hotmail.com
