@@ -11,15 +11,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript</strong>
+  🦄 Languages: <strong>JavaScript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>HTML, CSS, JavaScript, Sass, ReactJS, e Styled Components.</strong>
+  💼 Tools: <strong>HTML, CSS, JavaScript, Sass, ReactJS, e Styled Components.</strong>
 </p>
 
 <p align="left">
-  💌 To contact me, please click on the link below the linkedin or send me an email: ⤵️
+  💌 To contact me, please click on the link below the linkedin: ⤵️
 </p>
 
 <p align="left">
