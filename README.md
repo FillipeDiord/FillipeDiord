@@ -2,7 +2,7 @@
 
 <p align="left">
   👋 Hi, I’m Fillipe Diord,
-  <strong>I'm a Full Stack Developer</strong>.<br>
+  <strong>I'm a Front-End Developer</strong>.<br>
   I'm looking to collaborate and work on projects using ReactJs, ReactNative, NodeJs, AWS technologies.
 </p>
 
