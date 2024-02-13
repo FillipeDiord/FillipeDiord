@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>HTML, CSS, JavaScript, Typescript, Sass, ReactJS, React Native, Styled Components, TailwindCSS</strong>
+  💼 Tools: <strong>HTML, CSS, JavaScript, Typescript, Sass, ReactJS, React Native, Styled Components, TailwindCSS.</strong>
 </p>
 
 <p align="left">
